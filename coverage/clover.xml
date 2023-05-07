@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683456368693" clover="3.2.0">
+  <project timestamp="1683456368693" name="All files">
+    <metrics statements="17" coveredstatements="16" conditionals="5" coveredconditionals="4" methods="12" coveredmethods="11" elements="34" coveredelements="31" complexity="0" loc="17" ncloc="17" packages="2" files="2" classes="2"/>
+    <package name="services">
+      <metrics statements="10" coveredstatements="10" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="API.ts" path="/Users/haconglinh1990/Project/LinhHC/Todo/src/services/API.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="9"/>
+      <file name="Store.ts" path="/Users/haconglinh1990/Project/LinhHC/Todo/src/store/Store.ts">
+        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="9"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
